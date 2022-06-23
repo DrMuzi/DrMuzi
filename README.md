@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrMuzi&show_icons=true&theme=github_dark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrMuzi&langs_count=5&theme=github_dark&count_private=true&layout=compact)](https://github.com/DrMuzi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrMuzi&langs_count=5&theme=github_dark)](https://github.com/DrMuzi/github-readme-stats)
