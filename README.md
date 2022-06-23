@@ -17,6 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrMuzi&theme=dark">
 
+<img src="https://github-profile-trophy.vercel.app/?username=DrMuzi&theme=discord">
+
 <a href="https://github.com/DrMuzi/HUWAEI-MapsKit-OfficeGovApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DrMuzi&repo=HUWAEI-MapsKit-OfficeGovApps&theme=github_dark&show_owner=true" />
 </a>
