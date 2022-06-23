@@ -21,3 +21,15 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/HighkalW/CapstoneProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HighkalW&repo=CapstoneProject&theme=github_dark&show_owner=true" />
 </a>
+<a href="https://github.com/DrMuzi/Belajar-Machine-Learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DrMuzi&repo=Belajar-Machine-Learning&theme=github_dark&show_owner=true" />
+</a>
+<a href="https://github.com/DrMuzi/ML-with-Python-IBM---Coursera-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DrMuzi&repo=ML-with-Python-IBM---Coursera-&theme=github_dark&show_owner=true" />
+</a>
+<a href="https://github.com/DrMuzi/Data_Engineer-DQLab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DrMuzi&repo=Data_Engineer-DQLab&theme=github_dark&show_owner=true" />
+</a>
+<a href="https://github.com/DrMuzi/Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DrMuzi&repo=Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning&theme=github_dark&show_owner=true" />
+</a>
