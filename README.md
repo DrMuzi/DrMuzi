@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering, Data Science, Machine Learning
 - 🌱 I’m currently learning Python, Java
 - 💞️ I’m looking to collaborate on project about gesture recognition for sign language
-- 📫 How to reach me : <a href="https://www.linkedin.com/in/dimas-rafi-ramaharmuzi-42765077/">LinkedIn</a>
+- 📫 How to reach me : <a href="https://www.linkedin.com/in/dimas-rafi-ramaharmuzi-42765077/">LinkedIn</a> | <a href="https://twitter.com/RafiMuzi">Twitter</a>
 
 <!---
 DrMuzi/DrMuzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
